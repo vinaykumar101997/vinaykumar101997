@@ -122,18 +122,4 @@ Concept work I'm building toward as I go deeper into applied AI for fintech — 
 Auburn University at Montgomery, Montgomery, Alabama — Graduated May 2025
 
 ---
-
-### GitHub Stats
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VinayKumar444201-cloud&show_icons=true&theme=default&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar444201-cloud&layout=compact&theme=default"/>
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumar444201-cloud&theme=default" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos or connect!</i></p>
+enter"><i>Thanks for stopping by — feel free to explore my repos or connect!</i></p>
