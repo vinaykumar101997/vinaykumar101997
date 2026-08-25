@@ -122,4 +122,4 @@ Concept work I'm building toward as I go deeper into applied AI for fintech — 
 Auburn University at Montgomery, Montgomery, Alabama — Graduated May 2025
 
 ---
-enter"><i>Thanks for stopping by — feel free to explore my repos or connect!</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos or connect!</i></p>
