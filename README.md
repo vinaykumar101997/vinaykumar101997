@@ -12,7 +12,7 @@
 
 ### About Me
 
-- Software Engineer with **3 years of enterprise experience** in Infosys Finacle core-banking customization — banking workflows, custom menus/screens, transaction processing, batch jobs, SQL/PL-SQL, reporting, testing, deployment, and production troubleshooting
+- Software Engineer with **2+ years of enterprise experience** in Infosys Finacle core-banking customization — banking workflows, custom menus/screens, transaction processing, batch jobs, SQL/PL-SQL, reporting, testing, deployment, and production troubleshooting
 - **MS in Computer Science** (Auburn University at Montgomery, 2025), with hands-on projects in Java/Spring Boot, Apache Kafka, payment processing, and GenAI/RAG for AML analysis
 - Combining real-world financial-systems experience with modern backend engineering and applied AI
 - Currently exploring: LLMs, Retrieval-Augmented Generation (RAG), and multi-agent systems for fintech use cases
